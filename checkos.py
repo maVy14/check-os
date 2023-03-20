@@ -15,4 +15,5 @@ def get_platform():
 
 if sys.platform == 'win32':
     print("Window")
-else print("none")
+else: 
+    print("none")
